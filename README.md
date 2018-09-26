@@ -1,4 +1,4 @@
-# battleship. Note, the board iz zero indexed.
+# A remake of the game battleship. Note, the board is zero indexed.
 
 
 
